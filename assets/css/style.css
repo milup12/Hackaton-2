@@ -1,0 +1,73 @@
+.padre {
+	box-sizing: border-box;
+	width: 100%;
+}
+
+header {
+	position: fixed;
+	display: flex;
+	width: 100%;
+	top: 0px;
+	z-index: 3;
+	background-color: rgb(219, 219, 219);
+}
+
+.conenedor-2 {
+	padding: 2.75em 0.625em;
+	height: 36vh;
+}
+
+.nav-link {
+	margin: 0 20px;
+}
+
+.conenedor-2 p {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+
+.conenedor-2 h2 {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 20px;
+	color: rgb(69, 69, 255);
+}
+
+.contenedor-3 {
+	padding: 2.75em 0.625em;
+	height: 36vh;
+	background-color: rgb(237, 237, 237);
+}
+
+.contenedor-3 p {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+
+.contenedor-3 h2 {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 20px;
+	color: rgb(69, 69, 255);
+}
+
+.contenedor-4 {
+	padding: 5em 0;
+}
+
+.contenedor-4 .titulo-4 {
+	padding-left: 30px;
+}
+
+.form {
+	padding: 50px 0;
+}
+
+.form .titulo-f {
+	padding-bottom: 20px;
+	color: rgb(69, 69, 255);
+}
